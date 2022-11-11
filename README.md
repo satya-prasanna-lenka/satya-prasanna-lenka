@@ -1,3 +1,4 @@
+![logo](https://github.com/satya-prasanna-lenka/satya-prasanna-lenka/blob/main/programming-and-coding-futuristic-banner-vector.jpg)
 <h1 align="center">Hi 👋, I'm Satya Prasanna Lenka</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <a href="https://i-am-satya.netlify.app/"/>
