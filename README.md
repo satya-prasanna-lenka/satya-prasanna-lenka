@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Satya Prasanna Lenka</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<a href="https://i-am-satya.netlify.app/"/>
 <img align="right" width="400" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Coding..." />
+</a>
 
 - 👨‍💻 All of my projects are available at [https://i-am-satya.netlify.app/](https://i-am-satya.netlify.app/)
 
